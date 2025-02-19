@@ -2,6 +2,7 @@
 
 ## Overview
 ![](./media-gcp-aws/architecture.png)
+
 This repository documents my experience in successfully migrating virtual machines from Google Cloud Platform (GCP) to Amazon Web Services (AWS) using AWS Application Migration Service (AWS MGN). The goal was to ensure a smooth, automated, and efficient transition while minimizing downtime and operational disruption.
 
 ## Key Benefits
